@@ -1,0 +1,15 @@
+input tags are usually text 
+
+activating the type property "" 
+
+put event listener on entire form itself
+submit event 
+
+event.target (the form) can access input by id
+
+to reset the form and clear the input 
+
+form.reset() - removes whatever you typed from the input field 
+
+a p tag for each input field 
+add it to card
